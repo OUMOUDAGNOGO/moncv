@@ -1,0 +1,36 @@
+
+.cv-container{
+		/*margin-top: -1%;*/
+		margin-bottom: -1%;
+		padding-top: -1%;
+		padding-bottom: -1%;
+       float: left;
+       color: black;
+       
+       /*margin-left: 5%*/
+       width: 40%;
+       height:1000px;
+
+}
+.oumou{ 
+	/*margin-top: -1%;*/
+	margin-bottom: -1%;
+	padding-top: -1%;
+	padding-bottom: -1%;
+	float: right;
+	color: black;
+	
+	/*margin-right: 80%*/
+	width: 60%; 
+	height:1000px;
+
+}
+fieldset{
+	/*width:50%;*/
+	height: 70%;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-image: url(ghtm.jfif);
+	
+
+}
